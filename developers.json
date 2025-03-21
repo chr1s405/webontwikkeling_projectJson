@@ -1,0 +1,67 @@
+[
+    {
+      "id": "DEV-001",
+      "name": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "foundedYear": 1988,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/RockstarGames.jpg?raw=true",
+      "slogan": "Outlaws to the End"
+    },
+    {
+      "id": "DEV-002",
+      "name": "Mojang Studios",
+      "publisher": "Mojang Studios",
+      "foundedYear": 2009,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Mojang.jpg?raw=true",
+      "slogan": "Unleashing Creativity, One Block at a Time"
+    },
+    {
+      "id": "DEV-003",
+      "name": "HoYoverse",
+      "publisher": "HoYoverse",
+      "foundedYear": 2011,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/HoYoverse.jpg?raw=true",
+      "slogan": "Tech Otakus Save the World"
+    },
+    {
+      "id": "DEV-004",
+      "name": "Spike",
+      "publisher": "Bandai Namco Entertainment",
+      "foundedYear": 1989,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Spike.jpg?raw=true",
+      "slogan": "Bringing Anime Worlds to Life"
+    },
+    {
+      "id": "DEV-005",
+      "name": "The Behemoth",
+      "publisher": "The Behemoth",
+      "foundedYear": 2003,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Thebehemoth.jpg?raw=true",
+      "slogan": "Handcrafted Indie Adventures"
+    },
+    {
+      "id": "DEV-006",
+      "name": "Psyonix",
+      "publisher": "Psyonix",
+      "foundedYear": 2000,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Psyonix.jpg?raw=true",
+      "slogan": "Car Soccer Done Right"
+    },
+    {
+      "id": "DEV-007",
+      "name": "Riot Games",
+      "publisher": "Riot Games",
+      "foundedYear": 2006,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/RiotGames.jpg?raw=true",
+      "slogan": "For Gamers. By Gamers."
+    },
+    {
+      "id": "DEV-008",
+      "name": "Electronic Arts",
+      "publisher": "Electronic Arts",
+      "foundedYear": 1982,
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/ElectronicArts.jpg?raw=true",
+      "slogan": "Challenge Everything"
+    }
+  ]
+  
