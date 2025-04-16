@@ -8,7 +8,7 @@
     "releaseDate": "2013-09-17",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Gta5.jpg?raw=true",
     "genre": "Action-Adventure",
-    "perspective": "Third-Person",
+    "perspective": "Third Person",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "developerId": "DEV-001"
   },
@@ -21,7 +21,7 @@
     "releaseDate": "2011-11-18",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Minecraft.jpg?raw=true",
     "genre": "Sandbox",
-    "perspective": "First-Person / Third-Person",
+    "perspective": "First Person",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "developerId": "DEV-002"
   },
@@ -34,7 +34,7 @@
     "releaseDate": "2020-09-28",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/GenshinImpact.jpg?raw=true",
     "genre": "Action RPG",
-    "perspective": "Third-Person",
+    "perspective": "Third Person",
     "platforms": ["PC", "PlayStation", "Mobile"],
     "developerId": "DEV-003"
   },
@@ -47,7 +47,7 @@
     "releaseDate": "2010-11-02",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/DragonBallRagingBlast2.jpg?raw=true",
     "genre": "Fighting",
-    "perspective": "Third-Person",
+    "perspective": "Third Person",
     "platforms": ["PlayStation", "Xbox"],
     "developerId": "DEV-004"
   },
@@ -60,7 +60,7 @@
     "releaseDate": "2008-08-27",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/CastleCrashers.jpg?raw=true",
     "genre": "Beat 'em Up",
-    "perspective": "Side-Scroller",
+    "perspective": "Side Scroller",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "developerId": "DEV-005"
   },
@@ -73,7 +73,7 @@
     "releaseDate": "2015-07-07",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RocketLeague.jpg?raw=true",
     "genre": "Sports",
-    "perspective": "Third-Person",
+    "perspective": "Third Person",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "developerId": "DEV-006"
   },
@@ -86,7 +86,7 @@
     "releaseDate": "2009-10-27",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/LeagueOfLegends.jpg?raw=true",
     "genre": "MOBA",
-    "perspective": "Top-Down",
+    "perspective": "Top Down",
     "platforms": ["PC"],
     "developerId": "DEV-007"
   },
@@ -99,7 +99,7 @@
     "releaseDate": "2020-06-02",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Valorant.jpg?raw=true",
     "genre": "FPS",
-    "perspective": "First-Person",
+    "perspective": "First Person",
     "platforms": ["PC"],
     "developerId": "DEV-007"
   },
@@ -112,7 +112,7 @@
     "releaseDate": "2013-04-03",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/BattleBlockTheater.jpg?raw=true",
     "genre": "Platformer",
-    "perspective": "Side-Scroller",
+    "perspective": "Side Scroller",
     "platforms": ["PC", "Xbox"],
     "developerId": "DEV-005"
   },
@@ -125,7 +125,7 @@
     "releaseDate": "2022-12-02",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/NeedForSpeedUnbound.jpg?raw=true",
     "genre": "Racing",
-    "perspective": "Third-Person",
+    "perspective": "Third Person",
     "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
     "developerId": "DEV-008"
   }
