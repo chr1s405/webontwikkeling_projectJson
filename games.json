@@ -1,193 +1,132 @@
 [
-    {
-      "id": "GAME-001",
-      "title": "Grand Theft Auto V",
-      "description": "An open-world action-adventure game set in the sprawling city of Los Santos, filled with heists, crime, and an engaging storyline.",
-      "price": 29.99,
-      "isActive": true,
-      "releaseDate": "2013-09-17",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Gta5.jpg?raw=true",
-      "genre": "Action-Adventure",
-      "platforms": ["PC", "PlayStation", "Xbox"],
-      "developer": {
-        "id": "DEV-001",
-        "name": "Rockstar North",
-        "publisher": "Rockstar Games",
-        "foundedYear": 1988,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RockstarGames.jpg?raw=true",
-        "slogan": "Outlaws to the End"
-      }
-    },
-    {
-      "id": "GAME-002",
-      "title": "Minecraft",
-      "description": "A sandbox survival and building game that allows players to explore infinite worlds, mine resources, and create structures.",
-      "price": 29.99,
-      "isActive": true,
-      "releaseDate": "2011-11-18",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Minecraft.jpg?raw=true",
-      "genre": "Sandbox",
-      "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
-      "developer": {
-        "id": "DEV-002",
-        "name": "Mojang Studios",
-        "publisher": "Mojang Studios",
-        "foundedYear": 2009,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Mojang.jpg?raw=true",
-        "slogan": "Unleashing Creativity, One Block at a Time"
-      }
-    },
-    {
-      "id": "GAME-003",
-      "title": "Genshin Impact",
-      "description": "An open-world action RPG with an anime-inspired art style and a deep elemental combat system.",
-      "price": 0,
-      "isActive": true,
-      "releaseDate": "2020-09-28",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/GenshinImpact.jpg?raw=true",
-      "genre": "Action RPG",
-      "platforms": ["PC", "PlayStation", "Mobile"],
-      "developer": {
-        "id": "DEV-003",
-        "name": "HoYoverse",
-        "publisher": "HoYoverse",
-        "foundedYear": 2011,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/HoYoverse.jpg?raw=true",
-        "slogan": "Tech Otakus Save the World"
-      }
-    },
-    {
-      "id": "GAME-004",
-      "title": "Dragon Ball: Raging Blast 2",
-      "description": "A 3D fighting game based on the Dragon Ball universe, featuring intense battles and over-the-top special moves.",
-      "price": 39.98,
-      "isActive": false,
-      "releaseDate": "2010-11-02",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/DragonBallRagingBlast2.jpg?raw=true",
-      "genre": "Fighting",
-      "platforms": ["PlayStation", "Xbox"],
-      "developer": {
-        "id": "DEV-004",
-        "name": "Spike",
-        "publisher": "Bandai Namco Entertainment",
-        "foundedYear": 1989,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Spike.jpg?raw=true",
-        "slogan": "Bringing Anime Worlds to Life"
-      }
-    },
-    {
-      "id": "GAME-005",
-      "title": "Castle Crashers",
-      "description": "A side-scrolling beat 'em up with RPG elements, featuring cooperative gameplay and a quirky medieval fantasy setting.",
-      "price": 11.99,
-      "isActive": true,
-      "releaseDate": "2008-08-27",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/CastleCrashers.jpg?raw=true",
-      "genre": "Beat 'em Up",
-      "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
-      "developer": {
-        "id": "DEV-005",
-        "name": "The Behemoth",
-        "publisher": "The Behemoth",
-        "foundedYear": 2003,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Thebehemoth.jpg?raw=true",
-        "slogan": "Handcrafted Indie Adventures"
-      }
-    },
-    {
-      "id": "GAME-006",
-      "title": "Rocket League",
-      "description": "A unique sports-action game where players control rocket-powered cars in high-octane soccer matches.",
-      "price": 0,
-      "isActive": true,
-      "releaseDate": "2015-07-07",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RocketLeague.jpg?raw=true",
-      "genre": "Sports",
-      "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
-      "developer": {
-        "id": "DEV-006",
-        "name": "Psyonix",
-        "publisher": "Psyonix",
-        "foundedYear": 2000,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Psyonix.jpg?raw=true",
-        "slogan": "Car Soccer Done Right"
-      }
-    },
-    {
-      "id": "GAME-007",
-      "title": "League of Legends",
-      "description": "A competitive online multiplayer battle arena game where teams of champions fight to destroy the enemy Nexus.",
-      "price": 0,
-      "isActive": true,
-      "releaseDate": "2009-10-27",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/LeagueOfLegends.jpg?raw=true",
-      "genre": "MOBA",
-      "platforms": ["PC"],
-      "developer": {
-        "id": "DEV-007",
-        "name": "Riot Games",
-        "publisher": "Riot Games",
-        "foundedYear": 2006,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RiotGames.jpg?raw=true",
-        "slogan": "For Gamers. By Gamers."
-      }
-    },
-    {
-      "id": "GAME-008",
-      "title": "Valorant",
-      "description": "A tactical first-person shooter with unique agents, precise gunplay, and strategic gameplay.",
-      "price": 0,
-      "isActive": true,
-      "releaseDate": "2020-06-02",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Valorant.jpg?raw=true",
-      "genre": "FPS",
-      "platforms": ["PC"],
-      "developer": {
-        "id": "DEV-007",
-        "name": "Riot Games",
-        "publisher": "Riot Games",
-        "foundedYear": 2006,
-        "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RiotGames.jpg?raw=true",
-        "slogan": "For Gamers. By Gamers."
-      }
-    },
-    {
-      "id": "GAME-009",
-      "title": "BattleBlock Theater",
-      "description": "A quirky 2D platformer where players must navigate deadly traps, solve puzzles, and survive in a mysterious theater controlled by evil cats.",
-      "price": 14.99,
-      "isActive": true,
-      "releaseDate": "2013-04-03",
-      "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/BattleBlockTheater.jpg?raw=true",
-      "genre": "Platformer",
-      "platforms": ["PC", "Xbox"],
-      "developer": {
-      "id": "DEV-005",
-      "name": "The Behemoth",
-      "publisher": "The Behemoth",
-      "foundedYear": 2003,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Thebehemoth.jpg?raw=true",
-      "slogan": "Handcrafted Indie Adventures"
-    }
-    },
-    {
-        "id": "GAME-010",
-        "title": "Need for Speed Unbound",
-        "description": "A high-speed street racing game with an artistic graffiti-inspired style, intense police chases, and deep vehicle customization.",
-        "price": 69.99,
-        "isActive": true,
-        "releaseDate": "2022-12-02",
-        "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/NeedForSpeedUnbound.jpg?raw=true",
-        "genre": "Racing",
-        "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
-        "developer": {
-          "id": "DEV-008",
-          "name": "Electronic Arts",
-          "publisher": "Electronic Arts",
-          "foundedYear": 1982,
-          "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/ElectronicArts.jpg?raw=true",
-          "slogan": "Challenge Everything"
-        }
-      }
-  ]
-  
+  {
+    "id": "GAME-001",
+    "title": "Grand Theft Auto V",
+    "description": "An open-world action-adventure game set in the sprawling city of Los Santos, filled with heists, crime, and an engaging storyline.",
+    "price": 29.99,
+    "isActive": true,
+    "releaseDate": "2013-09-17",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Gta5.jpg?raw=true",
+    "genre": "Action-Adventure",
+    "perspective": "Third-Person",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "developerId": "DEV-001"
+  },
+  {
+    "id": "GAME-002",
+    "title": "Minecraft",
+    "description": "A sandbox survival and building game that allows players to explore infinite worlds, mine resources, and create structures.",
+    "price": 29.99,
+    "isActive": true,
+    "releaseDate": "2011-11-18",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Minecraft.jpg?raw=true",
+    "genre": "Sandbox",
+    "perspective": "First-Person / Third-Person",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "developerId": "DEV-002"
+  },
+  {
+    "id": "GAME-003",
+    "title": "Genshin Impact",
+    "description": "An open-world action RPG with an anime-inspired art style and a deep elemental combat system.",
+    "price": 0,
+    "isActive": true,
+    "releaseDate": "2020-09-28",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/GenshinImpact.jpg?raw=true",
+    "genre": "Action RPG",
+    "perspective": "Third-Person",
+    "platforms": ["PC", "PlayStation", "Mobile"],
+    "developerId": "DEV-003"
+  },
+  {
+    "id": "GAME-004",
+    "title": "Dragon Ball: Raging Blast 2",
+    "description": "A 3D fighting game based on the Dragon Ball universe, featuring intense battles and over-the-top special moves.",
+    "price": 39.98,
+    "isActive": false,
+    "releaseDate": "2010-11-02",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/DragonBallRagingBlast2.jpg?raw=true",
+    "genre": "Fighting",
+    "perspective": "Third-Person",
+    "platforms": ["PlayStation", "Xbox"],
+    "developerId": "DEV-004"
+  },
+  {
+    "id": "GAME-005",
+    "title": "Castle Crashers",
+    "description": "A side-scrolling beat 'em up with RPG elements, featuring cooperative gameplay and a quirky medieval fantasy setting.",
+    "price": 11.99,
+    "isActive": true,
+    "releaseDate": "2008-08-27",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/CastleCrashers.jpg?raw=true",
+    "genre": "Beat 'em Up",
+    "perspective": "Side-Scrolling",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "developerId": "DEV-005"
+  },
+  {
+    "id": "GAME-006",
+    "title": "Rocket League",
+    "description": "A unique sports-action game where players control rocket-powered cars in high-octane soccer matches.",
+    "price": 0,
+    "isActive": true,
+    "releaseDate": "2015-07-07",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RocketLeague.jpg?raw=true",
+    "genre": "Sports",
+    "perspective": "Third-Person",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "developerId": "DEV-006"
+  },
+  {
+    "id": "GAME-007",
+    "title": "League of Legends",
+    "description": "A competitive online multiplayer battle arena game where teams of champions fight to destroy the enemy Nexus.",
+    "price": 0,
+    "isActive": true,
+    "releaseDate": "2009-10-27",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/LeagueOfLegends.jpg?raw=true",
+    "genre": "MOBA",
+    "perspective": "Top-Down",
+    "platforms": ["PC"],
+    "developerId": "DEV-007"
+  },
+  {
+    "id": "GAME-008",
+    "title": "Valorant",
+    "description": "A tactical first-person shooter with unique agents, precise gunplay, and strategic gameplay.",
+    "price": 0,
+    "isActive": true,
+    "releaseDate": "2020-06-02",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Valorant.jpg?raw=true",
+    "genre": "FPS",
+    "perspective": "First-Person",
+    "platforms": ["PC"],
+    "developerId": "DEV-007"
+  },
+  {
+    "id": "GAME-009",
+    "title": "BattleBlock Theater",
+    "description": "A quirky 2D platformer where players must navigate deadly traps, solve puzzles, and survive in a mysterious theater controlled by evil cats.",
+    "price": 14.99,
+    "isActive": true,
+    "releaseDate": "2013-04-03",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/BattleBlockTheater.jpg?raw=true",
+    "genre": "Platformer",
+    "perspective": "Side-Scrolling",
+    "platforms": ["PC", "Xbox"],
+    "developerId": "DEV-005"
+  },
+  {
+    "id": "GAME-010",
+    "title": "Need for Speed Unbound",
+    "description": "A high-speed street racing game with an artistic graffiti-inspired style, intense police chases, and deep vehicle customization.",
+    "price": 69.99,
+    "isActive": true,
+    "releaseDate": "2022-12-02",
+    "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/NeedForSpeedUnbound.jpg?raw=true",
+    "genre": "Racing",
+    "perspective": "Third-Person",
+    "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
+    "developerId": "DEV-008"
+  }
+]
