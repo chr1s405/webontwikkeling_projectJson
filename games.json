@@ -60,7 +60,7 @@
     "releaseDate": "2008-08-27",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/CastleCrashers.jpg?raw=true",
     "genre": "Beat 'em Up",
-    "perspective": "Side-Scrolling",
+    "perspective": "Side-Scroller",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "developerId": "DEV-005"
   },
@@ -112,7 +112,7 @@
     "releaseDate": "2013-04-03",
     "image": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/BattleBlockTheater.jpg?raw=true",
     "genre": "Platformer",
-    "perspective": "Side-Scrolling",
+    "perspective": "Side-Scroller",
     "platforms": ["PC", "Xbox"],
     "developerId": "DEV-005"
   },
