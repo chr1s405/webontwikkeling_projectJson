@@ -10,7 +10,14 @@
     "genre": "Action-Adventure",
     "perspective": "Third Person",
     "platforms": ["PC", "PlayStation", "Xbox"],
-    "developerId": "DEV-001"
+    "developer": {
+      "id": "DEV-001",
+      "name": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "foundedYear": 1988,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RockstarGames.jpg?raw=true",
+      "slogan": "Outlaws to the End"
+    }
   },
   {
     "id": "GAME-002",
@@ -23,7 +30,14 @@
     "genre": "Sandbox",
     "perspective": "First Person",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
-    "developerId": "DEV-002"
+    "developer": {
+      "id": "DEV-002",
+      "name": "Mojang Studios",
+      "publisher": "Mojang Studios",
+      "foundedYear": 2009,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Mojang.jpg?raw=true",
+      "slogan": "Unleashing Creativity, One Block at a Time"
+    }
   },
   {
     "id": "GAME-003",
@@ -36,7 +50,14 @@
     "genre": "Action RPG",
     "perspective": "Third Person",
     "platforms": ["PC", "PlayStation", "Mobile"],
-    "developerId": "DEV-003"
+    "developer": {
+      "id": "DEV-003",
+      "name": "HoYoverse",
+      "publisher": "HoYoverse",
+      "foundedYear": 2011,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/HoYoverse.jpg?raw=true",
+      "slogan": "Tech Otakus Save the World"
+    }
   },
   {
     "id": "GAME-004",
@@ -49,7 +70,14 @@
     "genre": "Fighting",
     "perspective": "Third Person",
     "platforms": ["PlayStation", "Xbox"],
-    "developerId": "DEV-004"
+    "developer": {
+      "id": "DEV-004",
+      "name": "Spike",
+      "publisher": "Bandai Namco Entertainment",
+      "foundedYear": 1989,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Spike.jpg?raw=true",
+      "slogan": "Bringing Anime Worlds to Life"
+    }
   },
   {
     "id": "GAME-005",
@@ -62,7 +90,14 @@
     "genre": "Beat 'em Up",
     "perspective": "Side Scroller",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
-    "developerId": "DEV-005"
+    "developer": {
+      "id": "DEV-005",
+      "name": "The Behemoth",
+      "publisher": "The Behemoth",
+      "foundedYear": 2003,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Thebehemoth.jpg?raw=true",
+      "slogan": "Handcrafted Indie Adventures"
+    }
   },
   {
     "id": "GAME-006",
@@ -75,7 +110,14 @@
     "genre": "Sports",
     "perspective": "Third Person",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
-    "developerId": "DEV-006"
+    "developer": {
+      "id": "DEV-006",
+      "name": "Psyonix",
+      "publisher": "Psyonix",
+      "foundedYear": 2000,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Psyonix.jpg?raw=true",
+      "slogan": "Car Soccer Done Right"
+    }
   },
   {
     "id": "GAME-007",
@@ -88,7 +130,14 @@
     "genre": "MOBA",
     "perspective": "Top Down",
     "platforms": ["PC"],
-    "developerId": "DEV-007"
+    "developer": {
+      "id": "DEV-007",
+      "name": "Riot Games",
+      "publisher": "Riot Games",
+      "foundedYear": 2006,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RiotGames.jpg?raw=true",
+      "slogan": "For Gamers. By Gamers."
+    }
   },
   {
     "id": "GAME-008",
@@ -101,7 +150,14 @@
     "genre": "FPS",
     "perspective": "First Person",
     "platforms": ["PC"],
-    "developerId": "DEV-007"
+    "developer": {
+      "id": "DEV-007",
+      "name": "Riot Games",
+      "publisher": "Riot Games",
+      "foundedYear": 2006,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RiotGames.jpg?raw=true",
+      "slogan": "For Gamers. By Gamers."
+    }
   },
   {
     "id": "GAME-009",
@@ -114,7 +170,14 @@
     "genre": "Platformer",
     "perspective": "Side Scroller",
     "platforms": ["PC", "Xbox"],
-    "developerId": "DEV-005"
+    "developer": {
+      "id": "DEV-005",
+      "name": "The Behemoth",
+      "publisher": "The Behemoth",
+      "foundedYear": 2003,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Thebehemoth.jpg?raw=true",
+      "slogan": "Handcrafted Indie Adventures"
+    }
   },
   {
     "id": "GAME-010",
@@ -127,6 +190,13 @@
     "genre": "Racing",
     "perspective": "Third Person",
     "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
-    "developerId": "DEV-008"
+    "developer": {
+      "id": "DEV-008",
+      "name": "Electronic Arts",
+      "publisher": "Electronic Arts",
+      "foundedYear": 1982,
+      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/ElectronicArts.jpg?raw=true",
+      "slogan": "Challenge Everything"
+    }
   }
 ]
