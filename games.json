@@ -106,7 +106,7 @@
     "price": 0,
     "isActive": true,
     "releaseDate": "2015-07-07",
-    "image": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/RocketLeague.jpge",
+    "image": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/RocketLeague.jpg",
     "genre": "Sports",
     "perspective": "Third Person",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
