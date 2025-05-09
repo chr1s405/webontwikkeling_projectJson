@@ -4,7 +4,7 @@
       "name": "Rockstar North",
       "publisher": "Rockstar Games",
       "foundedYear": 1988,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RockstarGames.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/RockstarGames.jpg",
       "slogan": "Outlaws to the End"
     },
     {
@@ -12,7 +12,7 @@
       "name": "Mojang Studios",
       "publisher": "Mojang Studios",
       "foundedYear": 2009,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Mojang.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/Mojang.jpg",
       "slogan": "Unleashing Creativity, One Block at a Time"
     },
     {
@@ -20,7 +20,7 @@
       "name": "HoYoverse",
       "publisher": "HoYoverse",
       "foundedYear": 2011,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/HoYoverse.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/HoYoverse.jpg",
       "slogan": "Tech Otakus Save the World"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Spike",
       "publisher": "Bandai Namco Entertainment",
       "foundedYear": 1989,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Spike.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/Spike.jpg",
       "slogan": "Bringing Anime Worlds to Life"
     },
     {
@@ -36,7 +36,7 @@
       "name": "The Behemoth",
       "publisher": "The Behemoth",
       "foundedYear": 2003,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Thebehemoth.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/Thebehemoth.jpg",
       "slogan": "Handcrafted Indie Adventures"
     },
     {
@@ -44,7 +44,7 @@
       "name": "Psyonix",
       "publisher": "Psyonix",
       "foundedYear": 2000,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/Psyonix.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/Psyonix.jpg",
       "slogan": "Car Soccer Done Right"
     },
     {
@@ -52,7 +52,7 @@
       "name": "Riot Games",
       "publisher": "Riot Games",
       "foundedYear": 2006,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/RiotGames.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/RiotGames.jpg",
       "slogan": "For Gamers. By Gamers."
     },
     {
@@ -60,7 +60,7 @@
       "name": "Electronic Arts",
       "publisher": "Electronic Arts",
       "foundedYear": 1982,
-      "logo": "https://github.com/chr1s405/webontwikkeling_projectJson/blob/main/img/ElectronicArts.jpg?raw=true",
+      "logo": "https://raw.githubusercontent.com/chr1s405/webontwikkeling_projectJson/refs/heads/main/img/ElectronicArts.jpg",
       "slogan": "Challenge Everything"
     }
   ]
